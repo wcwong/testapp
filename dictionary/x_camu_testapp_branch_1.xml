@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="branch 1" max_length="40" name="x_camu_testapp_branch_1" type="collection"/>
+</database>
