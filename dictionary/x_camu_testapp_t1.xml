@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="t1" max_length="40" name="x_camu_testapp_t1" type="collection"/>
+    <element extends="task" label="t1" max_length="40" name="x_camu_testapp_t1" type="collection">
+        <element label="foo" max_length="40" name="foo" type="boolean"/>
+    </element>
 </database>
